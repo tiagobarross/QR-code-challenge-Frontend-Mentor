@@ -10,7 +10,18 @@ body{
     display: grid;
     align-items: center;
     justify-content: center;
+    text-align: center;
     font-family: 'Outfit', sans-serif;
+}
+
+main{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+footer{
+    margin-top: -70px;
 }
 
 #container{
